@@ -41,8 +41,8 @@ This project explores the **Sample Superstore** dataset using Python, pandas, an
 - ![Screenshot 2025-07-01 155141](https://github.com/user-attachments/assets/f11d94e4-b11b-4d84-9186-83d151c3acb7)
 
 
-✅ **Sales by Category**  
-- Pie chart visualizing sales contribution of each product category
+✅ **Profit by Category**  
+- Pie chart visualizing profit contribution of each product category
 
   ![Screenshot 2025-07-01 155305](https://github.com/user-attachments/assets/be6dafd5-41b1-4ad9-8fd5-fcb5af107be5)
 
