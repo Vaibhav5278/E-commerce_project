@@ -46,6 +46,13 @@ This project explores the **Sample Superstore** dataset using Python, pandas, an
 
   ![Screenshot 2025-07-01 155305](https://github.com/user-attachments/assets/be6dafd5-41b1-4ad9-8fd5-fcb5af107be5)
 
+  
+✅ **Monthly sales analysis**  
+- line chart analyzing monthly sales
+
+- ![Screenshot 2025-07-01 162331](https://github.com/user-attachments/assets/7ecd254c-e566-4b2d-b50d-0ad29901a107)
+
+
 
 ✅ **Sales by Sub-Category**  
 - Bar chart analyzing sub-category sales
